@@ -12,3 +12,5 @@ We are spreading the beauty of human nature through whimsical, charming art insp
 We live in realm of whimsy to bring Native American, African, African American, and Indian mythology, legends; and triumphs to western film and animation in ways we haven’t seen before. We love fairytales/mythology and legends that blur truth and fiction. To tell the untold stories of under represented people. To tell the stories of their gods and legends and victories. That is what the Sleepy Gallows will be known for.
 
 This blog will start by focusing on the making of the animated short: The Elusive Green Elephant. Join me on my Sort Journey.
+
+<img src="{{ 'assets/img/brit-mio.PNG' | relative_url }}" alt="A drawing by Crystal Galloway of Brittney and Crystal Galloway as characters in for Peace, Love, and Harmony" />
