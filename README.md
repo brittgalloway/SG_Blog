@@ -7,7 +7,6 @@ Made from Beautiful Jekyll
   Stuff to remember, bundle exec jekyll serve
 </small>
 
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
 
