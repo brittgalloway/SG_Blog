@@ -2,8 +2,8 @@
 layout: post
 
 cover-img: /assets/img/SleepyGallowsLinkedInBlog.png
-thumbnail-img: /assets/img/avatar-icon.png
-share-img: /assets/img/SleepyGallowsLinkedInBlog.png
+thumbnail-img: /assets/img/plh.png
+share-img: /assets/img/plh.png
 tags: [animation, art, project, motivation]
 ---
 

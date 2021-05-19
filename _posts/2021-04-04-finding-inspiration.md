@@ -2,8 +2,8 @@
 layout: post
 
 cover-img: /assets/img/MyShortJourneyLinkedInBlog.png
-thumbnail-img: /assets/img/avatar-icon.png
-share-img: /assets/img/SleepyGallowsLinkedInBlog.png
+thumbnail-img: /assets/img/bushElephant.jpeg
+share-img: /assets/img/bushElephant.jpeg
 tags: [animation, art, project, eleusive green elephant]
 ---
 
