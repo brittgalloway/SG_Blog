@@ -19,8 +19,7 @@ In 2019 I decided I needed a change. I had graduated from California College of 
 
 Painted title screen for For Peace, Love, and Harmony. The image is of the character Nirvana sitting a Magnolia flower stem
 In 2015, my sister Crystal (she's a great illustrator and comic artist) and I started the Sleepy Gallows to make shorts and mini series. Our first production is [For Peace, Love, and Harmony (PLH)](https://sleepygallows.com/Animation/originals/plh). A fun project, that became too much too handle and is currently on hiatus, but will return within the next 2 years.
-
-<a href="https://sleepygallows.com/Animation/originals/plh"><img style="float: right; width: 30vw" src="{{ '../assets/img/plh.png' | relative_url }}" alt="The title image of For Peace, Lov, and Harmony. Nirvana is sitting on a branch." /></a>
+![The title image of For Peace, Lov, and Harmony. Nirvana is sitting on a branch.](../assets/img/plh.png "Boys and Elephant"){: style="float: right; width: 30vw"}
 
 In 2017 I paid off my loans in full, but was not working in the animation or art except a few freelance projects and PLH. By 2019, I needed a change. Still not wanting to live in California, and having no luck with Chicago's more commercial Motion Graphics industry, I looked to another interest of mine, web development and programming.
 
